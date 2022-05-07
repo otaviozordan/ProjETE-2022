@@ -25,8 +25,8 @@ Estamos **ajustando** os detalhes com a Equipe para podermos dar início no **[P
 <p align='center'>
  
   <a href="https://onedrive.live.com/redir?resid=AE7BF81E2DB40DA9%21734&authkey=%21ArINawdUAjCsSyk&page=View&wd=target%28README%20e%20Sumário.one%7C604ed240-4cf7-4229-bf0c-d9ae19c374ab%2F🔎%20Nota%200%20-%20Apresentação%20da%20Equipe%7C33650eda-4175-43ec-a99c-673f1787e88e%2F%29">
-    <p align='center'><img height="120em" src="https://www.a2host.com.br/blog/wp-content/uploads/2015/08/OneNote.png" /></p>
-  </a>&nbsp;&nbsp;
+    <p align='center'><img height="120em" src="https://www.a2host.com.br/blog/wp-content/uploads/2015/08/OneNote.png" />
+    </a>&nbsp;&nbsp;
 </p>
 
 ## 🤝 Colaboradores

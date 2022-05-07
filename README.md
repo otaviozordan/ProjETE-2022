@@ -40,7 +40,7 @@ Agradecemos às seguintes pessoas que estão contribuindo para este projeto:
       <a href="https://instagram.com/otaviozordan">
         <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Ot%C3%A1vio.jpeg" width="100px;" alt="Foto do Otávio Zordan no GitHub" width="100px;" alt="Foto do Otávio Zordan no GitHub"/><br>
         <sub>
-          <b><p>Otávio Zordan</p><p>(Coder)</p><a href="https://github.com/otaviozordan">Acesse o meu perfil</b>
+          <b><p>Otávio Zordan</p><p>(Coder)</p><a href="https://github.com/otaviozordan"><h5>Acesse o meu perfil</h></b>
         </sub>
       </a>
     </td>
@@ -48,7 +48,7 @@ Agradecemos às seguintes pessoas que estão contribuindo para este projeto:
       <a href="https://www.instagram.com/kayque_sfa/">
         <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Kayque.png" width="100px;" alt="Foto do Kayque"/><br>
         <sub>
-         <b><p>Kayque Amado</p><p>(Editor)</p><a href="https://github.com/DreamkitteXz">Acesse o meu perfil
+         <b><p>Kayque Amado</p><p>(Editor)</p><a href="https://github.com/DreamkitteXz"><h5>Acesse o meu perfil</h>
          </a>
          </b>
         </sub>

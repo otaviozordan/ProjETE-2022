@@ -45,8 +45,8 @@ Agradecemos às seguintes pessoas que estão contribuindo para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://media-exp1.licdn.com/dms/image/D5603AQGAJA4AmrF7Ew/profile-displayphoto-shrink_800_800/0/1636324404258?e=1657152000&v=beta&t=Y6LUW1bGo8DFBRHShjBtfTsrRfrrIs4RR3Y35-0LlgQ">
-        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Kayque.png" width="100px;" alt="Foto do Kayque"/><br>
+      <a href="https://instagram.com/kayque_sfa">
+        <img src="https://media-exp1.licdn.com/dms/image/D5603AQGAJA4AmrF7Ew/profile-displayphoto-shrink_800_800/0/1636324404258?e=1657152000&v=beta&t=Y6LUW1bGo8DFBRHShjBtfTsrRfrrIs4RR3Y35-0LlgQ" width="100px;" alt="Foto do Kayque"/><br>
         <sub>
          <b><p>Kayque Amado</p><p>(Editor)</p><a href="https://github.com/DreamkitteXz"><h5>Acesse o meu perfil</h>
          </a>

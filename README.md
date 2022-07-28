@@ -38,20 +38,36 @@ Agradecemos às seguintes pessoas que estão contribuindo para este projeto:
 <link>
   <tr>
     <td align="center">
-      <a href="https://instagram.com/otaviozordan">
-        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Ot%C3%A1vio.jpeg" width="125px;" alt="Foto do Otávio Zordan no GitHub" width="100px;" alt="Foto do Otávio Zordan no GitHub"/><br>
+      <a href="https://www.linkedin.com/in/otavio-zordan/">
+        <img src="https://github.com/otaviozordan/ProjETE-2022/blob/main/img/profile/Otavio.jpg" width="125px;" alt="Foto do Otávio" width="100px;" 
         <sub>
-          <b><p>Otávio Zordan</p><p>(Coder)</p><a href="https://github.com/otaviozordan"><h5>Acesse o meu perfil</h></b>
+          <b><p>Otávio Zordan</p><p>(Desenvolverdor de Embarcado)</p><a href="https://github.com/otaviozordan"><h5>Acesse o meu perfil</h></b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/kayque_sfa">
-        <img src="https://media-exp1.licdn.com/dms/image/D5603AQGAJA4AmrF7Ew/profile-displayphoto-shrink_800_800/0/1636324404258?e=1657152000&v=beta&t=Y6LUW1bGo8DFBRHShjBtfTsrRfrrIs4RR3Y35-0LlgQ" width="125px;" alt="Foto do Kayque"/><br>
+      <a href="https://www.linkedin.com/in/kayque-amado-2689b8225/">
+        <img src="https://github.com/otaviozordan/ProjETE-2022/blob/main/img/profile/Kayque.jpg" width="125px;" alt="Foto do Kayque"/><br>
         <sub>
-         <b><p>Kayque Amado</p><p>(Coder)</p><a href="https://github.com/DreamkitteXz"><h5>Acesse o meu perfil</h>
+          <b><p>Kayque Amado</p><p>(Desenvolvedor Mobile)</p><a href="https://github.com/DreamkitteXz"><h5>Acesse o meu perfil</h>
          </a>
          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/rayssapaduan_/">
+        <img src="https://github.com/otaviozordan/ProjETE-2022/blob/main/img/profile/Rayssa.jpg" width="125px;" alt="Foto da Rayssa" width="100px;" 
+        <sub>
+          <b><p>Rayssa Paduan</p><p>(Documentação)</p><a href="https://www.linkedin.com/in/rayssa-paduan-oliveira-742926226/"><h5>Acesse o meu perfil</h></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/bflacerda18/">
+        <img src="https://github.com/otaviozordan/ProjETE-2022/blob/main/img/profile/Beatriz.jpg" width="125px;" alt="Foto da Rayssa" width="100px;" 
+        <sub>
+          <b><p>Beatriz Lacerda</p><p>(Documentação)</p><a href="https://www.linkedin.com/in/beatriz-fornereto-lacerda-72ba59226/"><h5>Acesse o meu perfil</h></b>
         </sub>
       </a>
     </td>

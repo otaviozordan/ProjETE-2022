@@ -1,4 +1,4 @@
-# ProjETE 2022 - Equipe 21xx
+# ProjETE 2022 - Equipe 2106
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -18,37 +18,40 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 ## 💻 Sobre o projeto:
-blablabla
+Estamos **ajustando** os detalhes com a Equipe para podermos dar início no **[Projeto](https://github.com/otaviozordan/ProjETE-2022)**.
 
 ## 📫 Diario de Bordo
 > Confira nosso diario!
 <p align='center'>
  
-  <a href="https://www.evernote.com/shard/s514/sh/6707ce40-a144-d16c-2ce9-a178e2f5d89f/bb6ba8ba6df5936f6250cbdbbc6b583c">
-    <img height="120em" src="https://github.com/otaviozordan/21Proj06/blob/main/img/Evernote-Logo.png" />  
-  </a>&nbsp;&nbsp;
+  <a href="https://onedrive.live.com/redir?resid=AE7BF81E2DB40DA9%21734&authkey=%21ArINawdUAjCsSyk&page=View&wd=target%28README%20e%20Sumário.one%7C604ed240-4cf7-4229-bf0c-d9ae19c374ab%2F🔎%20Nota%200%20-%20Apresentação%20da%20Equipe%7C33650eda-4175-43ec-a99c-673f1787e88e%2F%29">
+    <p align='center'><img height="120em" src="https://www.a2host.com.br/blog/wp-content/uploads/2015/08/OneNote.png" />
+    </a>&nbsp;&nbsp;
 </p>
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecemos às seguintes pessoas que estão contribuindo para este projeto:
 >Adicione sua foto aqui:
 
 <table>
+<link>
   <tr>
     <td align="center">
       <a href="https://instagram.com/otaviozordan">
-        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Ot%C3%A1vio.jpeg" width="100px;" alt="Foto do Otávio Zordan no GitHub" width="100px;" alt="Foto do Otávio Zordan no GitHub"/><br>
+        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Ot%C3%A1vio.jpeg" width="125px;" alt="Foto do Otávio Zordan no GitHub" width="100px;" alt="Foto do Otávio Zordan no GitHub"/><br>
         <sub>
-          <b><p>Otávio Zordan</p><p>(Coder)</p></b>
+          <b><p>Otávio Zordan</p><p>(Coder)</p><a href="https://github.com/otaviozordan"><h5>Acesse o meu perfil</h></b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/kayque_sfa/">
-        <img src="https://github.com/otaviozordan/21Proj06/blob/main/img/Foto%20Kayque.png" width="100px;" alt="Foto do Kayque"/><br>
+      <a href="https://instagram.com/kayque_sfa">
+        <img src="https://media-exp1.licdn.com/dms/image/D5603AQGAJA4AmrF7Ew/profile-displayphoto-shrink_800_800/0/1636324404258?e=1657152000&v=beta&t=Y6LUW1bGo8DFBRHShjBtfTsrRfrrIs4RR3Y35-0LlgQ" width="125px;" alt="Foto do Kayque"/><br>
         <sub>
-         <b><p>Kayque Silva</p><p>(Editor)</p></b>
+         <b><p>Kayque Amado</p><p>(Coder)</p><a href="https://github.com/DreamkitteXz"><h5>Acesse o meu perfil</h>
+         </a>
+         </b>
         </sub>
       </a>
     </td>
